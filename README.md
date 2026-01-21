@@ -5,7 +5,7 @@ PhD candidate, trainee MRI physicist, and AI enthusiast. I work at the intersect
 ---
 
 ## About me
-- 🎓 PhD candidate researching haemodynamics using deep learning and graph convolutional approaches  
+- 🎓 PhD graduate researching haemodynamics using deep learning and graph convolutional approaches  
 - 🧪 Trainee Magnetic Resonance (MR) Physicist — clinical & research MRI with NHS Wales  
 - 💻 Primary languages & tools: Python (ML & imaging), Fortran, R, Emacs Lisp; Emacs and Gentoo Linux for my development environment  
 - 🔬 Interests: MRI physics, flow modelling, quality assurance for imaging, AI for biomedical problems, reproducible computational science  
