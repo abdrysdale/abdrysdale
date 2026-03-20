@@ -1,38 +1,12 @@
-# Hi — I'm Alex Drysdale (abdrysdale) 👋
+PhD graduate, trainee MRI physicist (NHS Wales).
 
-PhD candidate, trainee MRI physicist, and AI enthusiast. I work at the intersection of medical imaging, haemodynamics, and machine learning — building tools and models to understand blood flow and to make MRI science more reproducible and useful.
+Research focus: haemodynamic modelling with thermoregulation, and deep learning for blood flow prediction. Thesis work involved generating 0D models with thermoregulation, building a 1.44 million virtual patient database for 1D arterial simulation, and designing a novel deep residual graph CNN for haemodynamic metric prediction. Since that hadn't been done before, I now have extensive experience with architectures that don't work for this problem.
 
----
+Projects: tinytorchtest (PyTorch sanity-check testing), Hazen (MRI QA tooling - lead contributor), Haemflow-cfd (0D haemodynamic modelling with thermoregulation and pareto-front parameter fitting from patient measurements).
 
-## About me
-- 🎓 PhD graduate researching haemodynamics using deep learning and graph convolutional approaches  
-- 🧪 Trainee Magnetic Resonance (MR) Physicist — clinical & research MRI with NHS Wales  
-- 💻 Primary languages & tools: Python (ML & imaging), Fortran, R, Emacs Lisp; Emacs and Gentoo Linux for my development environment  
-- 🔬 Interests: MRI physics, flow modelling, quality assurance for imaging, AI for biomedical problems, reproducible computational science  
-- 🌱 Values: social justice, open science; member of the Bahá’í community  
-- 🍞 Outside of work: I enjoy bread baking and tinkering with scientific software
-
----
-
-## What I build
-- Deep learning models for blood-flow analysis (including graph convolutional neural networks)
-- MRI analysis pipelines and QA tooling
-- Small, well-tested scientific libraries and CLI tools to make research workflows reproducible
-- Emacs tooling and scripts to improve developer productivity
-
-If you’re interested in MRI, haemodynamics, or bringing physics and ML together for healthcare, we’ll have plenty to talk about.
-
----
-
-## Highlights
-- Combining physics-based insight with data-driven models to improve interpretation of medical imaging  
-- Focus on open, well-documented code and reproducible experiments  
-- Comfortable across research, clinical-research translation, and software engineering workflows
-
----
-
-## Get in touch
-- Website & blog: https://abdrysdale.phd/  
-- GitHub: https://github.com/abdrysdale
-
-Thanks for stopping by — feel free to explore my repos or open an issue/PR if you find something useful (or broken)!
+- Class: Social Justice Mage.
+- Primary tools: Python, Fortran, R, Emacs Lisp.
+- Development environment: The Church of Emacs.
+- Bootloader: Gentoo Linux.
+- Hobby tools: Forth, Common Lisp.
+- Bread: Bread.
